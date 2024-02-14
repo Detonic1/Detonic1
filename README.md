@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Java and C++**
 
-- 👯 I’m looking to collaborate on **I am enthusiastic about collaborating on innovative projects, with a particular interest in mobile app development, full-stack web development, and AI-driven solutions.**
+- 👯 I’m looking to collaborate on ** innovative projects, with a particular interest in mobile app development, full-stack web development, and AI-driven solutions.**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
