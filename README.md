@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan</h1>
+<h1 align="center">Hi 👋, I'm Prince Dan</h1>
 <h3 align="center">A passionate Software engineer developer from Canada</h3>
 
 - 🔭 I’m currently working on a [Personal Portfolio builder](https://github.com/Detonic1/Personal-portfolio)
